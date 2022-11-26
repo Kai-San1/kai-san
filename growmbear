@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>bear</title>
+</head>
+<body>
+  <a href="#">Brown bear About me </a>
+  <h1>The Brown Bear</h1>
+  <ul style="color:blue">
+    <li><a href="#intro">Introduction</a></li>
+    <li><a href="#habit">Habitat</a></li>
+    <li><a href="#media">Media</a></li>
+  </ul>
+  <div id="intro">
+  <h2>About Brown Bears</h2>
+   <p>The brown bear (<em>Ursus arctos</em>) is native to parts of northern Eurasia and North America. Its conservation status is currently <strong>Least Concern</strong></p>
+
+
+    <p>There are many subspecies within the brown bear species, including the Atlas bear and the Himalayan brown bear.</p>
+  <h4><a href "#">Learn more<a></h4>
+<h4>Species</h4>
+  <ul>
+    <li>Arctos</li>
+    <li>Collarus</li>
+    <li>Horribilis</li>
+    <li>Nelsoni</li>
+  </ul>
+  </div>
+  <div id="habit">
+<h4>Features</h4>
+ <p>Brown bears are not always completely brown. Some can be reddish or yellowish. They have very large, curved claws and huge paws. Male brown bears are often 30% larger than female brown bears. They can range from 5 feet to 9 feet from head to toe.</p>
+ <h3>Habitat</h3>
+ <h4>Countries with Large Brown Bear Populations </h4>
+    <ol>
+      <li>Russia</li>
+      <li>United States</li>
+      <li>Canada</li>
+    </ol>
+  <h4>Countries with Small Brown Bear Populations</h4>
+  <p>Some countries with smaller brown bear populations include Armenia, Belarus, Bulgaria, China, Finland, France, Greece, India, Japan, Nepal, Poland, Romania, Slovenia, Turkmenistan, and Uzbekistan.</p>
+  </div>
+<h2>Media</h2>
+<div id="media">
+<img src="bear.jpg">
+<video src="#" width="540" height="249" controls>hjhj</video>
+  </div>
+</body>
+</html>
